@@ -15,4 +15,4 @@ end
 
 
 #teachers and students will be inheriting from the user model
-
+end
